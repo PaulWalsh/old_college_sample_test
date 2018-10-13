@@ -11,8 +11,8 @@ setup(
     extras_require={},      # optional features that other packages can require
                             #   like 'helloworld[foo]'
     package_data = {},
-    author="Aonghus Lawlor",
-    author_email = "aonghus.lawlor@ucd.ie",
+    author="Paul Walsh",
+    author_email = "paul.walsh.3@ucdconnect.ie",
     description = "The familiar sample program in Python",
     license = "BSD",
     keywords= "example documentation tutorial",
